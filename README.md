@@ -23,64 +23,64 @@ Me chamo Jonathan Spinelli Lopes Moraes, tenho 25 anos e sou natural de São Ber
           
 <img 
     align="left" 
-    alt="BASH" 
-    title="BASH"
-    width="30px" 
+    alt="Bash" 
+    title="Bash"
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
 />
 <img 
     align="left" 
-    alt="ELASTICSEARCH" 
-    title="ELASTICSEARCH"
+    alt="Elasticsearch" 
+    title="Elasticsearch"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="grafana"
-    title="grafana" 
+    alt="Grafana"
+    title="Grafana" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Jenkins"
+    title="Jenkins" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"    
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Docker"
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"         
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Postgresql" 
+    title="Postgresql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Putty" 
+    title="Putty"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg"/>
