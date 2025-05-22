@@ -25,7 +25,7 @@ Me chamo Jonathan Spinelli Lopes Moraes, tenho 25 anos e sou natural de São Ber
     align="left" 
     alt="Bash" 
     title="Bash"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
 />
@@ -33,7 +33,7 @@ Me chamo Jonathan Spinelli Lopes Moraes, tenho 25 anos e sou natural de São Ber
     align="left" 
     alt="Elasticsearch" 
     title="Elasticsearch"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"
 />
