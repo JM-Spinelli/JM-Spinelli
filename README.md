@@ -2,7 +2,7 @@
 
 **💻 `Analista de Infraestrutura II`**
 
-Me chamo Jonathan Spinelli Lopes Moraes, tenho 25 anos e sou natural de São Bernado dos Campos. Concluí o ensino médio na ETEC de Ibitinga, com o curso técnico em informática e sou formado em Tecnologia de Redes de computadores pela instituição Anhanguera. Atualmente, estou me qualificando para atuar como Analista de SRE com foco no cloud provider AWS. 
+Me chamo Jonathan Spinelli Lopes Moraes, tenho 25 anos e sou natural de São Bernado dos Campos. Concluí o ensino médio na ETEC de Ibitinga, com o curso técnico em informática. Sou formado em Tecnologia de Redes de computadores pela instituição Anhanguera e atualmente atuo como analista de SRE II.
 
 <p align="left">
     
